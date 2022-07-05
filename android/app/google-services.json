@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "65684176550",
+    "project_id": "daochat-a4306",
+    "storage_bucket": "daochat-a4306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65684176550:android:e5ac652ea98e8ea9a07e67",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65684176550-17et6pha0rectbkdqp0ghgbav4f59in9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPjmXRst-IT6sdMFjAce6_UyAiEOhJEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65684176550-17et6pha0rectbkdqp0ghgbav4f59in9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65684176550-6cmi90rk2ccnod9o3ocmhi8100jpbcu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
